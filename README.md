@@ -33,4 +33,4 @@ Despite that being my main focus, I also enjoy Web Development and contributing 
                   
 *   🌍  Based in [Spain](https://time.is/Spain)
 *   🖥️  See my portfolio at [NoxGlyphs](https://noxglyphs.neocities.org/)
-*   ✉️  You can contact me at [linked](https://www.linkedin.com/in/jose-donoso-camacho-53a21a264/)                  
+*   ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/jose-donoso-camacho-53a21a264/)                  
