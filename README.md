@@ -1,6 +1,6 @@
 # Hi! My name is Jose
 
-I specialize in Data, AI and Computational Maths 🧮
+I specialize in Data, AI and Computational Maths.
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> 
 <span>&nbsp;</span>
@@ -17,7 +17,7 @@ I specialize in Data, AI and Computational Maths 🧮
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 </p>
 
-Despite that being my main focus, I also enjoy Web Development and contributing to the Linux environment 🐧 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="20"/>
+Despite that being my main focus, I also enjoy Web Development and contributing to the Linux environment 🐧
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 <span>&nbsp;</span>
@@ -43,6 +43,7 @@ Despite that being my main focus, I also enjoy Web Development and contributing 
 <span>&nbsp;</span>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
 </p>
-                  
-You can see my portfolio at [NoxGlyphs](https://noxglyphs.neocities.org/)
-*   ✉️  You can contact me via [LinkedIn](https://www.linkedin.com/in/jose-donoso-camacho-53a21a264/)                  
+
+
+Portfolio: [NoxGlyphs](https://noxglyphs.neocities.org/)
+Contact: [LinkedIn](https://www.linkedin.com/in/jose-donoso-camacho-53a21a264/)                  
