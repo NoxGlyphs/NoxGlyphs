@@ -44,6 +44,7 @@ Despite that being my main focus, I also enjoy Web Development and contributing 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
 </p>
 <p><br></p>
+
 Portfolio: [NoxGlyphs](https://noxglyphs.neocities.org/)
 <br>
 Contact: [LinkedIn](https://www.linkedin.com/in/jose-donoso-camacho-53a21a264/)           
